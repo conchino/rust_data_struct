@@ -7,6 +7,10 @@ fn _linkedlist_box_test(){
     test1();
 }
 
+fn _linkedlist_rc_test(){
+    use linkedlist_Rc_test::*;
+    test1();
+}
 
 
 fn main() {
